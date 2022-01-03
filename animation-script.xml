@@ -1,1 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+-<TextureAtlas imagePath="BOYFRIEND.png">
+
+<!-- Created with Adobe Animate version 20.0.0.17400 -->
+
+
+<!-- http://www.adobe.com/products/animate.html -->
+
+
+<SubTexture height="435" width="439" y="0" x="0" name="BF Dead Loop0000"/>
+
+<SubTexture height="435" width="439" y="0" x="449" name="BF Dead Loop0001"/>
+
+<SubTexture height="435" width="439" y="0" x="449" name="BF Dead Loop0002"/>
+
+<SubTexture height="435" width="439" y="0" x="898" name="BF Dead Loop0003"/>
+
+<SubTexture height="435" width="439" y="0" x="898" name="BF Dead Loop0004"/>
+
+<SubTexture height="435" width="439" y="0" x="1347" name="BF Dead Loop0005"/>
+
+<SubTexture height="435" width="439" y="0" x="1347" name="BF Dead Loop0006"/>
+
+<SubTexture height="435" width="439" y="0" x="1796" name="BF Dead Loop0007"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0008"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0009"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0010"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0011"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0012"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0013"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0014"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0015"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0016"/>
+
+<SubTexture height="435" width="439" y="0" x="0" name="BF Dead Loop0017"/>
+
+<SubTexture height="435" width="439" y="0" x="449" name="BF Dead Loop0018"/>
+
+<SubTexture height="435" width="439" y="0" x="449" name="BF Dead Loop0019"/>
+
+<SubTexture height="435" width="439" y="0" x="898" name="BF Dead Loop0020"/>
+
+<SubTexture height="435" width="439" y="0" x="898" name="BF Dead Loop0021"/>
+
+<SubTexture height="435" width="439" y="0" x="1347" name="BF Dead Loop0022"/>
+
+<SubTexture height="435" width="439" y="0" x="1347" name="BF Dead Loop0023"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0024"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0025"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0026"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0027"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0028"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0029"/>
+
+<SubTexture height="435" width="439" y="0" x="1796" name="BF Dead Loop0030"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0031"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0032"/>
+
+<SubTexture height="435" width="439" y="0" x="2245" name="BF Dead Loop0033"/>
+
+<SubTexture height="435" width="439" y="0" x="2694" name="BF Dead confirm0000" frameHeight="499" frameWidth="439" frameY="-64" frameX="0"/>
+
+<SubTexture height="469" width="439" y="0" x="3143" name="BF Dead confirm0001" frameHeight="499" frameWidth="439" frameY="-30" frameX="0"/>
+
+<SubTexture height="499" width="439" y="0" x="3592" name="BF Dead confirm0002"/>
+
+<SubTexture height="469" width="439" y="0" x="4041" name="BF Dead confirm0003" frameHeight="499" frameWidth="439" frameY="-30" frameX="0"/>
+
+<SubTexture height="469" width="439" y="0" x="4490" name="BF Dead confirm0004" frameHeight="499" frameWidth="439" frameY="-30" frameX="0"/>
+
+<SubTexture height="469" width="439" y="0" x="4939" name="BF Dead confirm0005" frameHeight="499" frameWidth="439" frameY="-30" frameX="0"/>
+
+<SubTexture height="469" width="439" y="0" x="5388" name="BF Dead confirm0006" frameHeight="499" frameWidth="439" frameY="-30" frameX="0"/>
+
+<SubTexture height="469" width="439" y="0" x="5837" name="BF Dead confirm0007" frameHeight="499" frameWidth="439" frameY="-30" frameX="0"/>
+
+<SubTexture height="469" width="439" y="0" x="6286" name="BF Dead confirm0008" frameHeight="499" frameWidth="439" frameY="-30" frameX="0"/>
+
+<SubTexture height="469" width="439" y="0" x="6735" name="BF Dead confirm0009" frameHeight="499" frameWidth="439" frameY="-30" frameX="0"/>
+
+<SubTexture height="469" width="439" y="0" x="7184" name="BF Dead confirm0010" frameHeight="499" frameWidth="439" frameY="-30" frameX="0"/>
+
+... (19 KB left)
