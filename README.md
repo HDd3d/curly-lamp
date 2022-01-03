@@ -1,2 +1,2 @@
 # curly-lamp
-FNF
+Rick Astley Was Here
